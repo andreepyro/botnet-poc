@@ -1,7 +1,7 @@
 # Steganography Botnet POC
 
 This project was created as a proof of concept to demonstrate the use of steganography in a botnet.
-The malware uses the Dropbox API to communicate with the C&C server and hides the communication in cat images.
+The malware uses the Dropbox API to communicate with the C&C server and hides the communication in cat images from https://cataas.com/.
 This project is to be used for study purposes only.
 
 ## Prerequisites
